@@ -6,6 +6,17 @@
   height: 40vmin;
   pointer-events: none;
 }
+.sticky-top{
+  text-align: center;
+  background-color: navy;
+  color: white;
+  padding: 10px;
+  width: 86%;
+  display: inline-block;
+  margin-left: 110px;
+}
+.player-container{
+text-align: center;}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {

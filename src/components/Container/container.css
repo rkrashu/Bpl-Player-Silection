@@ -1,0 +1,40 @@
+.player-container{
+display: inline-block;
+}
+.image-container{
+    width: 210px;
+    border: 1px solid lightgray;
+    margin-left: 10px;
+    padding-left: 10px;
+}
+.image-container img{
+    width: 200px;
+}
+.image-container h6{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-weight: 700;
+    color: red
+}
+.info-container{
+    width: 210px;
+    border: 1px solid lightgray;
+    margin-left: 10px;
+    padding-top: 20px;
+    padding-left: 10px;
+    margin-bottom: 10px;
+}
+.player-name{
+    color: navy;
+    font-size: 20px;
+    font-weight: 900;
+}
+.add-player{
+    height: 30px;
+    width: 130px;
+    background-color: lightskyblue;
+    border: 1px solid black;
+    border-radius: 10px;
+    margin-bottom: 10px;
+
+}

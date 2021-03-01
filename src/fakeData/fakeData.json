@@ -1,0 +1,137 @@
+[
+    {
+      "id": 1,
+      "picture": "https://resources.pulse.icc-cricket.com/players/210/440.png",
+      "salary": 500000,
+      "age": 30,
+      "name": "Kane Williamson",
+      "nationality": "New Zealand",
+      "email": "prattdickerson@pathways.com"
+    },
+    {
+      "id": 2,
+      "picture": "https://resources.pulse.icc-cricket.com/players/210/488.png",
+      "salary": 450000,
+      "age": 27,
+      "name": "Pat Cummins",
+      "nationality": "Australian",
+      "email": "maymcfadden@pathways.com"
+    },
+    {
+      "id": 3,
+      "picture": "https://resources.pulse.icc-cricket.com/players/210/164.png",
+      "salary": 200000,
+      "age": 32,
+      "name": "Virat Kohli",
+      "nationality": "Indian",
+      "email": "gainesbarker@pathways.com"
+    },
+    {
+      "id": 4,
+      "picture": "https://resources.pulse.icc-cricket.com/players/210/201.png",
+      "salary": 600000,
+      "age": 33,
+      "name": "Shakib Al Hasan",
+      "nationality": "Bangladeshi",
+      "email": "herringhendricks@pathways.com"
+    },
+    {
+      "id": 5,
+      "picture": "https://resources.pulse.icc-cricket.com/players/210/391.png",
+      "salary": 350000,
+      "age": 37,
+      "name": "Mashrafe Mortaza",
+      "nationality": "Bangladeshi",
+      "email": "salliehale@pathways.com"
+    },
+    {
+      "id": 6,
+      "picture": "https://resources.pulse.icc-cricket.com/players/210/969.png",
+      "salary": 220000,
+      "age": 31,
+      "name": "Trent Boult",
+      "nationality": "New Zealand",
+      "email": "kathylawson@pathways.com"
+    },
+    {
+      "id": 7,
+      "picture": "https://resources.pulse.icc-cricket.com/players/210/1597.png",
+      "salary": 420000,
+      "age": 23,
+      "name": "Mehidy Hasan",
+      "nationality": "Bangladeshi",
+      "email": "luisahutchinson@pathways.com"
+    },
+    {
+      "id": 8,
+      "picture": "https://resources.pulse.icc-cricket.com/players/210/1594.png",
+      "salary": 350000,
+      "age": 25,
+      "name": "Mustafizur Rahman",
+      "nationality": "Bangladeshi",
+      "email": "katiesalazar@pathways.com"
+    },
+    {
+      "id": 9,
+      "picture": "https://resources.pulse.icc-cricket.com/players/210/2759.png",
+      "salary": 300000,
+      "age": 26,
+      "name": "Babar Azam",
+      "nationality": "Pakistan",
+      "email": "cheriecummings@pathways.com"
+    },
+    {
+      "id": 10,
+      "picture": "https://resources.pulse.icc-cricket.com/players/210/834.png",
+      "salary": 480000,
+      "age": 28,
+      "name": "Quinton de Kock",
+      "nationality": "South African",
+      "email": "rollinsmosley@pathways.com"
+    },
+    {
+      "id": 11,
+      "picture": "https://resources.pulse.icc-cricket.com/players/210/170.png",
+      "salary": 290000,
+      "age": 34,
+      "name": "David Warner",
+      "nationality": "Australian",
+      "email": "belindajoseph@pathways.com"
+    },
+    {
+      "id": 12,
+      "picture": "https://resources.pulse.icc-cricket.com/players/210/491.png",
+      "salary": 305000,
+      "age": 33,
+      "name": "Mushfiqur Rahim",
+      "nationality": "Bangladeshi",
+      "email": "freemanrichmond@pathways.com"
+    },
+    {
+      "id": 13,
+      "picture": "https://resources.pulse.icc-cricket.com/players/210/287.png",
+      "salary": 280000,
+      "age": 31,
+      "name": "Tamim Iqbal",
+      "nationality": "Bangladeshi",
+      "email": "joleneaguilar@pathways.com"
+    },
+    {
+      "id": 14,
+      "picture": "https://resources.pulse.icc-cricket.com/players/210/1919.png",
+      "salary": 380000,
+      "age": 27,
+      "name": "Soumya Sarkar",
+      "nationality": "Bangladeshi",
+      "email": "miasheppard@pathways.com"
+    },
+    {
+      "id": 15,
+      "picture": "https://resources.pulse.icc-cricket.com/players/210/1734.png",
+      "salary": 220000,
+      "age": 29,
+      "name": "Sabbir Rahman",
+      "nationality": "Bangladeshi",
+      "email": "westsykes@pathways.com"
+    }
+  ]
